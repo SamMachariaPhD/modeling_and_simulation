@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T08:31:40.934Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.9.1" etag="2MCcvNbv4lms50QWvAwn" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-22T09:14:59.903Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="H8unYDP7CExdkowCtlGW" version="14.9.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="936" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Analyte" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-0" value="Biorecognition" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-1" value="Transducer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-2" value="Signal processing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-3" value="Data handling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.133;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dydRh0zWO_Bg_8P7NJzj-5" target="dydRh0zWO_Bg_8P7NJzj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-5" value="Analyte" style="swimlane;fontFamily=Times New Roman;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="320" width="96" height="120" as="geometry">
+            <mxRectangle x="290" y="260" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-6" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Antigen&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Protein&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Virus&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Enzyme&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="dydRh0zWO_Bg_8P7NJzj-5">
+          <mxGeometry x="-14" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=0.133;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dydRh0zWO_Bg_8P7NJzj-14" target="dydRh0zWO_Bg_8P7NJzj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-14" value="Biorecognition" style="swimlane;fontFamily=Times New Roman;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="216" y="320" width="130" height="120" as="geometry">
+            <mxRectangle x="290" y="260" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-15" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Antibody&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Protein receptor&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Microorganism&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Enzyme&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="dydRh0zWO_Bg_8P7NJzj-14">
+          <mxGeometry x="-20" y="20" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-19" value="Transducer" style="swimlane;fontFamily=Times New Roman;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="426" y="320" width="130" height="120" as="geometry">
+            <mxRectangle x="290" y="260" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-20" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Optical&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Electrochemical&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Physical&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="dydRh0zWO_Bg_8P7NJzj-19">
+          <mxGeometry x="-20" y="20" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-21" value="Data handling" style="swimlane;fontFamily=Times New Roman;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="636" y="320" width="130" height="120" as="geometry">
+            <mxRectangle x="290" y="260" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-22" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Data processing&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Data analysis&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Visualization&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 255 , 204)&quot;&gt;Storage&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="dydRh0zWO_Bg_8P7NJzj-21">
+          <mxGeometry x="-20" y="20" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-23" value="Biological&lt;br&gt;behavior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-24" value="Biological&lt;br&gt;response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-25" value="Electrical&lt;br&gt;signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="576" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dydRh0zWO_Bg_8P7NJzj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=0.133;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dydRh0zWO_Bg_8P7NJzj-20" target="dydRh0zWO_Bg_8P7NJzj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
